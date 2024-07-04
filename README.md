@@ -1,18 +1,18 @@
 👋 Hi there! I'm Egypta.
 
-🌱 Passionate Coder:
+🌱 Passionate Coder
 
 Currently learning Java and exploring the endless possibilities of programming.
 
-📝 Documenting My Learning Journey:
+📝 Documenting My Learning Journey
 
 Sharing my progress and insights as I navigate through the world of coding.
 
-💡 Sluggish Learner:
+💡 Sluggish Learner
 
 I take my time to understand concepts deeply, building a solid foundation.
 
-🎓 MCA Student at Tezpur University:
+🎓 MCA Student at Tezpur University
 
 Pursuing my Master of Computer Applications and expanding my knowledge in computer science.
 
