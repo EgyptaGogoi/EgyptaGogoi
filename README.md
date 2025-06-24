@@ -1,19 +1,21 @@
-👋 Hi there! I'm Egypta.
+👋 Hi there! I'm **Egypta Gogoi**
 
-🌱 Passionate Coder
+💻 Aspiring Software Engineer | Backend-Focused Developer
 
-Currently learning Java and exploring the endless possibilities of programming.
+🎓 MCA Student @ Tezpur University  
+🌍 Currently interning at a FinTech startup (Fisdom) where I'm enhancing backend systems with Python, Flask, PostgreSQL, and GCP.
 
-📝 Documenting My Learning Journey
+🚀 What I'm up to:
+- Learning Java and diving deeper into full-stack development  
+- Documenting my coding journey, one step at a time  
+- Building real-world projects in Python, JavaScript, Django, React, and more
 
-Sharing my progress and insights as I navigate through the world of coding.
+🧠 Slow but steady learner – I believe in deeply understanding concepts over rushing through them.
 
-💡 Sluggish Learner
+🔧 **Tech Stack**:  
+Python | Java | JavaScript | Flask | Django | React.js | PostgreSQL | Docker | GCP | Git  
 
-I take my time to understand concepts deeply, building a solid foundation.
+📫 Reach me at: [egyptagogoi@gmail.com](mailto:egyptagogoi@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/egyptagogoi) | [GitHub](https://github.com/egyptagogoi) | [LeetCode](https://leetcode.com/egyptagogoi)
 
-🎓 MCA Student at Tezpur University
-
-You can find me : egyptagogoi@gmail.com
-
-Thanks for visiting! 🚀
+Thanks for stopping by! Let's build something cool. 🚀
