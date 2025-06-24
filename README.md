@@ -16,6 +16,6 @@
 Python | Java | JavaScript | Flask | Django | React.js | PostgreSQL | Docker | GCP | Git  
 
 📫 Reach me at: [egyptagogoi@gmail.com](mailto:egyptagogoi@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/egyptagogoi) | [GitHub](https://github.com/egyptagogoi) | [LeetCode](https://leetcode.com/egyptagogoi)
+🔗 [LinkedIn](https://linkedin.com/in/egyptagogoi) | [LeetCode](https://leetcode.com/egyptagogoi)
 
 Thanks for stopping by! Let's build something cool. 🚀
