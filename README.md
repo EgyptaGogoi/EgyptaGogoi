@@ -2,7 +2,7 @@
 
 💻 Aspiring Software Engineer | Backend-Focused Developer
 
-🎓 MCA Student @ Tezpur University  
+🎓 MCA'25 @ Tezpur University  
 🌍 Currently interning at a FinTech startup (Fisdom) where I'm enhancing backend systems with Python, Flask, PostgreSQL, and GCP.
 
 🚀 What I'm up to:
